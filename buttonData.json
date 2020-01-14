@@ -10,7 +10,7 @@
       },
         {
         "name": "Reset",
-        "command":"relaod",
+        "command":"reload",
         "arg":""
       }
     ]
