@@ -7,6 +7,11 @@
         "name": "Menu Board",
         "command":"remote",
         "arg":"menuboard"
+      },
+        {
+        "name": "Reset",
+        "command":"relaod",
+        "arg":""
       }
     ]
 }
