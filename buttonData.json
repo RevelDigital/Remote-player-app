@@ -1,0 +1,12 @@
+{
+    "title": "Remote",
+    "top-image-url": "",
+    "background-color": "#0099ff",
+    "buttons": [
+      {
+        "name": "Menu Board",
+        "command":"remote",
+        "arg":"menuboard"
+      }
+    ]
+}
