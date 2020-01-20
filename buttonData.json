@@ -7,6 +7,16 @@
         "name": "Menu Board",
         "command":"remote",
         "arg":"menuboard"
+      },
+      {
+        "name": "Financial",
+        "command":"remote",
+        "arg":"financial"
+      },
+      {
+        "name": "Alert",
+        "command":"remote",
+        "arg":"alert"
       }
     ]
 }
