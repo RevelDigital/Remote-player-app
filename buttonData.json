@@ -17,6 +17,11 @@
         "name": "Alert",
         "command":"remote",
         "arg":"alert"
+      },
+      {
+        "name": "Reset",
+        "command":"remote",
+        "arg":"reset"
       }
     ]
 }
